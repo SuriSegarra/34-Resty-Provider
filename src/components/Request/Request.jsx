@@ -1,6 +1,6 @@
 import React from 'react';
 import { useResty } from '../../Hooks/RestyProvider';
-import styles from './Request.css';
+
 
 const Request  = () => {
     //gives us access to our context

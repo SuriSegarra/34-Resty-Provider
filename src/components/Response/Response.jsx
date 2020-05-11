@@ -1,5 +1,4 @@
 import React from 'react';
-import styles from './Response.css';
 import { useResty } from '../../Hooks/RestyProvider';
 
 const Response = ({ response }) => {
